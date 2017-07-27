@@ -1,1 +1,3 @@
-hello this is  first_note.txt
+﻿hello this is  first_note.txt
+你好
+这是第二次修改
